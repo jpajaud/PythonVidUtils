@@ -1,0 +1,1 @@
+Utilities for reading and writing video frames into files. The Module was created to read and write data in a way that does not require preinstalled codecs.
